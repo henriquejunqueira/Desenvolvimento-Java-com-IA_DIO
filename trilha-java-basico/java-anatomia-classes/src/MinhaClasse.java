@@ -8,6 +8,8 @@ public class MinhaClasse {
         final String BR = "Brasil";
         // BR = "Brazil";
 
+        System.out.println("O ano é " + ano + " e o país é " + BR);
+
     }
 
 }
